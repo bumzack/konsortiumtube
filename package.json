@@ -1,0 +1,29 @@
+{
+  "name": "konsortiumtube",
+  "version": "0.0.0",
+  "description": "video platform",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^0.20.0",
+    "koa-jwt": "^1.0.0",
+    "q": "^1.4.0"
+  },
+  "devDependencies": {
+    "koa": "^0.20.0",
+    "koa-jwt": "^1.0.0",
+    "q": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumzack/konsortiumtube.git"
+  },
+  "author": "bumzack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bumzack/konsortiumtube/issues"
+  },
+  "homepage": "https://github.com/bumzack/konsortiumtube#readme"
+}
